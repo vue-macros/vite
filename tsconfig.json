@@ -21,7 +21,7 @@
     "noFallthroughCasesInSwitch": true
   },
   "vueCompilerOptions": {
-    "plugins": ["unplugin-vue-macros/volar"],
+    "plugins": ["vue-macros/volar"],
     "experimentalDefinePropProposal": "kevinEdition"
   }
 }
